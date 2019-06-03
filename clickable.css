@@ -1,0 +1,26 @@
+*{
+	margin: 5px;
+	
+}
+.container{
+	display: block;
+}
+.italic{
+	font-style: italic;
+}
+.categories{
+	font-weight: bold;
+	margin-top: 10px;
+}
+.items{
+	list-style: none;
+}
+.sort{
+	display: inline-block;
+}
+.tshirts{
+	display: inline-block;
+}
+.itemstwo{
+	padding: 5px;
+}
